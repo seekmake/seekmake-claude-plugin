@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "seekmake": {
+      "type": "http",
+      "url": "https://api-v2.seekmake.com/api/public/v1/mcp/protocol"
+    }
+  }
+}

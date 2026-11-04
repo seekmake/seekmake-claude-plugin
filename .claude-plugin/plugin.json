@@ -1,0 +1,22 @@
+{
+  "name": "seekmake",
+  "displayName": "SeekMake",
+  "version": "1.0.0",
+  "description": "Run a manufacturing shop's SeekMake account from Claude: find and read quotes and orders, see machines, materials and pricing, price a part from a 3D file, create or update quotes, and set the shop up, always with your confirmation before anything changes.",
+  "author": {
+    "name": "SeekMake",
+    "email": "contact@seekmake.com",
+    "url": "https://seekmake.com"
+  },
+  "homepage": "https://seekmake.com/developers-portal/api-docs",
+  "license": "MIT",
+  "keywords": [
+    "manufacturing",
+    "3d-printing",
+    "cnc-machining",
+    "sheet-metal",
+    "quotes",
+    "instant-quoting",
+    "pricing"
+  ]
+}
