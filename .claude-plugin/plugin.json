@@ -3,6 +3,7 @@
   "displayName": "SeekMake",
   "version": "1.0.0",
   "description": "Run a manufacturing shop's SeekMake account from Claude: find and read quotes and orders, see machines, materials and pricing, price a part from a 3D file, create or update quotes, and set the shop up, always with your confirmation before anything changes.",
+  "icon": "./.claude-plugin/icon.png",
   "author": {
     "name": "SeekMake",
     "email": "contact@seekmake.com",
