@@ -9,6 +9,7 @@
     "url": "https://seekmake.com"
   },
   "homepage": "https://seekmake.com/developers-portal/api-docs",
+  "privacyPolicyUrl": "https://seekmake.com/privacy-policy",
   "license": "MIT",
   "keywords": [
     "manufacturing",
